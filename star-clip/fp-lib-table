@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "easyeda")(type "KiCad")(uri "${KIPRJMOD}/lib/easyeda.pretty")(options "")(descr "Footprints pulled from LCSC/EasyEDA via easyeda2kicad"))
+  (lib (name "star_fp")(type "KiCad")(uri "${KIPRJMOD}/lib/star_fp.pretty")(options "")(descr "Project copies of stock footprints"))
+)

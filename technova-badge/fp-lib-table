@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr "Footprints pulled from LCSC/EasyEDA via easyeda2kicad"))
+  (lib (name "nfc_coil")(type "KiCad")(uri "${KIPRJMOD}/nfc_coil.pretty")(options "")(descr "NFC coil from Kicad-NFC-Coil-Generator (YugnatD)"))
+  (lib (name "technova_fp")(type "KiCad")(uri "${KIPRJMOD}/technova_fp.pretty")(options "")(descr "Board-specific copies: TS-1187A with silk on F.Fab and LCSC model, USB-C trimmed at the board edge"))
+)
